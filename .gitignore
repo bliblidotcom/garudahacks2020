@@ -1,0 +1,14 @@
+*.iml
+.gradle
+twa/local.properties
+twa/.idea/*
+.DS_Store
+twa/app/build
+twa/app/debug
+twa/app/proguard-rules.pro
+twa/captures
+twa/app/src/androidTest
+twa/app/src/test/*
+twa/platform-tools
+.externalNativeBuild
+.cxx
